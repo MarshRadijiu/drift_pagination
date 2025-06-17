@@ -1,7 +1,7 @@
 name: drift_pagination
-description: "A package for pagination with Drift."
+description: "A Dart package that provides simple and efficient pagination utilities for Drift, the reactive persistence library for Flutter applications."
 repository: https://github.com/MarshRadijiu/drift_pagination
-version: 1.0.0
+version: 1.0.2
 
 environment:
   sdk: ^3.7.2
